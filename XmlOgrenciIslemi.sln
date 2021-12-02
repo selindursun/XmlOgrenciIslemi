@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XmlOgrenciIslemleri_UI", "..\BirAralıkDersS\FormOrnek3\XmlOgrenciIslemleri_UI.csproj", "{CEF9D4C7-60FF-4230-B023-1D9539AA445E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEF9D4C7-60FF-4230-B023-1D9539AA445E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEF9D4C7-60FF-4230-B023-1D9539AA445E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEF9D4C7-60FF-4230-B023-1D9539AA445E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEF9D4C7-60FF-4230-B023-1D9539AA445E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E615975E-41ED-4117-95D4-495F999BAB33}
+	EndGlobalSection
+EndGlobal
